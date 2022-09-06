@@ -1,0 +1,43 @@
+body {
+  background-color: #FFCC00;
+  padding: 20px;
+  margin: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+ul.header li a {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+
+h1, h2, p, ul, li {
+  font-family: sans-serif;
+}
+
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+
+}
+
+ul.header {
+  background-color: black;
+  padding: 0;
+}
+
+.details {
+  background-color: white;
+  padding: 20px;
+}
+
+.active {
+background-color: blue;
+}
